@@ -1,4 +1,3 @@
-## What is Rattata.js
 
 When we built Rattata.js, we were first building an application based on it before implementing the actual underlying framework. Step by step, we could watch the application becoming alive.
 It's a rough MVC architecture built in JavaScript for your upcoming web app.
